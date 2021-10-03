@@ -1,2 +1,2 @@
-# GKLB_INT086
+# GKLB_INTM086
 Adatbázis kezelés féléves projekt
