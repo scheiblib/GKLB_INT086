@@ -1,0 +1,2 @@
+SELECT MAX(MATCH_DATE) AS [End of Season]
+FROM MATCH 
